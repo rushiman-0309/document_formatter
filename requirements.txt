@@ -1,0 +1,9 @@
+# For interacting with Google's Gemini AI models
+google-generativeai
+
+# For creating and manipulating Microsoft Word (.docx) files
+python-docx
+
+# For extracting text and data from PDF files (also known as PyMuPDF)
+PyMuPDF
+python-dotenv
